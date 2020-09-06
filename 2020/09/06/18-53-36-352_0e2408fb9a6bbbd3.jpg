@@ -1,0 +1,1156 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" id="typepad-standard" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+	<!-- head-common -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="generator" content="http://www.typepad.com/" />
+	
+	
+    <link rel="canonical" href="https://angrychicken.typepad.com/angry_chicken/" />
+
+
+
+        <link rel="stylesheet" href="https://angrychicken.typepad.com/angry_chicken/styles.css?v=6" type="text/css" media="screen" />
+        <link rel="stylesheet" href="https://static.typepad.com/.shared/themes/common/print.css" type="text/css" media="print" />
+
+<link rel="stylesheet" href="https://static.typepad.com/.shared/css/featherlight-gallery.css">
+
+<!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+
+	<link rel="alternate" type="application/atom+xml" title="Posts on 'angry chicken' (Atom)" href="https://angrychicken.typepad.com/angry_chicken/atom.xml" />
+	<link rel="alternate" type="application/rss+xml" title="Posts on 'angry chicken' (RSS 1.0)" href="https://angrychicken.typepad.com/angry_chicken/index.rdf" />
+	<link rel="alternate" type="application/rss+xml" title="Posts on 'angry chicken' (RSS 2.0)" href="https://angrychicken.typepad.com/angry_chicken/rss.xml" />
+	<script type="text/javascript">
+		var TPApp = {};
+		TPApp.app_uri = "https://www.typepad.com/";
+	</script>
+	<script type="text/javascript" src="https://static.typepad.com/.shared/js/yui/yahoo-dom-event.js,/js/app/thumbnail-gallery-min.js,/js/app/flyouts-min.js"></script>
+
+
+
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-225723-36', 'auto', {'name': 'Typepad'}, {'allowLinker': true} );  // Separate tracker for Typepad.
+ga('Typepad.require', 'linker');
+ga('Typepad.linker:autoLink', ['none']);
+ga('Typepad.set', 'dimension1', '6a00d8341c578853ef00d83451b88169e2');
+ga('Typepad.set', 'dimension2', 'index');
+ga('Typepad.send', 'pageview');
+</script>
+
+
+
+<meta property="og:title" content="angry chicken" />
+<meta property="og:site_name" content="angry chicken" />
+<meta property="og:type" content="blog" />
+<meta property="og:url" content="https://angrychicken.typepad.com/angry_chicken/" />
+<meta property="og:description" content="" />
+<meta property="fb:admins" content="" />
+<meta property="og:image" content="https://up0.typepad.com/6a00d8341c578853ef0120a7c94ea7970b-220si" />
+
+
+
+	<title>angry chicken</title>
+	<link rel="openid.server" href="https://www.typepad.com/services/openid/server" />
+	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.typepad.com/services/rsd/6a00d8341c578853ef00d83451b88169e2" />
+			<link rel="meta" type="application/rdf+xml" title="FOAF" href="https://angrychicken.typepad.com/foaf.rdf" />
+	
+        
+</head>
+
+
+
+<body class="layout-three-column index">
+	
+	<div id="container">
+		<div id="container-inner" class="pkg">
+			
+
+
+<a id="home"></a>
+   
+
+<!-- banner -->
+<div id="banner">
+	<div id="banner-inner" class="pkg">
+		
+		<h1 id="banner-header"><a href="https://angrychicken.typepad.com/angry_chicken/" accesskey="1">angry chicken</a></h1>
+		<h2 id="banner-description">
+		</h2>
+	</div>
+</div>
+
+
+
+
+
+
+			<div id="pagebody">
+				<div id="pagebody-inner" class="pkg">
+					<div id="alpha">
+						<div id="alpha-inner" class="pkg">
+							<!-- sidebar1 -->
+
+
+<!-- about page link -->
+<div class="module-about module">
+	<h2 class="module-header"><a
+		href="https://angrychicken.typepad.com/about.html">About</a></h2>
+</div>
+<!-- list_inlcude.tt  -->
+<div id="email_me" class="module-typelist module">
+<h2 class="module-header">email me</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item">amy(at)kingpod(dot)com<br /></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="video_workshops" class="module-typelist module">
+<h2 class="module-header">Video Workshops</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a href="" ></a><br /><a href="http://www.creativebug.com/instructors/amy-karol"><img style="border-style: none;" src="https://angrychicken.typepad.com/amyKarol_100x100_3.jpg"/></a>
+</li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="the_fine_print" class="module-typelist module">
+<h2 class="module-header">the fine print</h2>
+	<div class="typelist-plain module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><div class="typelist-note">Hi. I love it when people link to my posts—Thanks! Please feel free to do so, but I like to keep all the photos I have taken and words I have written right here. I am cool with anyone pinning my work on Pinterest, however. 
+
+I hope you understand. Feel free to e-mail if you have questions.
+
+For information on links, my take on advertising, and what companies I'm an associate with, please see my <a href="https://angrychicken.typepad.com/angry_chicken/2007/06/my_faq_or_the_l.html">FAQ</a>.</div></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="my_personal_site" class="module-typelist module">
+<h2 class="module-header">my personal site</h2>
+	<div class="typelist-plain module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><div class="typelist-note"><a href="http://www.amykarol.com"><img src="https://angrychicken.typepad.com/amykarol.jpg" style="border: none;"/></a></div></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="faq" class="module-typelist module">
+<h2 class="module-header">FAQ</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a href="" ></a><br /><a href="https://angrychicken.typepad.com/angry_chicken/2007/06/my_faq_or_the_l.html"><img style="border: none;" src="https://angrychicken.typepad.com/faq.jpg"/></a>
+</li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<div class="module-widget module" id="widget-LinkWithin_linkwithin">
+	<div class="module-content">
+    	<script>
+var linkwithin_site_id = 1574383;
+</script>
+<script src="https://www.linkwithin.com/widget.js"></script>
+<a href="http://www.linkwithin.com/"><img src="http://www.linkwithin.com/pixel.png" alt="Related Posts Plugin for WordPress, Blogger..." style="border: 0" /></a>
+	</div>
+</div><div class="module-categories module">
+	<h2 class="module-header"><a href="https://angrychicken.typepad.com/angry_chicken/archives.html">Categories</a></h2>
+	<div class="module-content">
+                   <ul class="module-list">
+
+
+                        <li class="module-list-item"><a href="https://angrychicken.typepad.com/angry_chicken/aprons/">aprons</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://angrychicken.typepad.com/angry_chicken/arty/">arty</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://angrychicken.typepad.com/angry_chicken/books/">Books</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://angrychicken.typepad.com/angry_chicken/buy_my_stuff/">buy my stuff!</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://angrychicken.typepad.com/angry_chicken/fabric_fibers/">fabric & fibers</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://angrychicken.typepad.com/angry_chicken/fish-tacos/">fish tacos</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://angrychicken.typepad.com/angry_chicken/food_and_drink/">Food and Drink</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://angrychicken.typepad.com/angry_chicken/holidays/">holidays</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://angrychicken.typepad.com/angry_chicken/i_heart_mail/">I heart mail</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://angrychicken.typepad.com/angry_chicken/in_the_kitchen/">in the kitchen</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://angrychicken.typepad.com/angry_chicken/japanese_craft_books/">japanese craft books</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://angrychicken.typepad.com/angry_chicken/learning/">learning </a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://angrychicken.typepad.com/angry_chicken/mishmash/">mish-mash</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://angrychicken.typepad.com/angry_chicken/toys/">toys</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://angrychicken.typepad.com/angry_chicken/travel/">Travel</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://angrychicken.typepad.com/angry_chicken/tutorialsrecipes/">tutorials/recipes</a></li>
+</span>
+		</ul>
+
+<a style="font-size:85%;display:none;" class="cat-more" href="https://angrychicken.typepad.com/angry_chicken/archives.html">See More</a>
+	</div>
+</div>
+<!-- list_inlcude.tt  -->
+<div id="_google_analytics_" class="module-typelist module">
+<h2 class="module-header"><!-- google analytics --></h2>
+	<div class="typelist-plain module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><div class="typelist-note"><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5153407-1");
+pageTracker._trackPageview();
+</script></div></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+
+
+
+						</div>
+					</div>
+					<div id="beta">
+						<div id="beta-inner" class="pkg">
+							
+
+
+
+
+
+<!-- CAROUSEL POSTS -->
+
+
+<!-- entry list sticky -->
+
+
+<!-- REGULAR POSTS -->
+
+
+
+    
+
+    
+
+
+
+
+    <h2 class="date-header">April 06, 2019</h2>
+
+	<div class="entry-category-arty entry-category-fabric_fibers entry-author-amy_k entry-type-post entry" id="entry-6a00d8341c578853ef0240a469ffe9200d">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://angrychicken.typepad.com/angry_chicken/2019/04/i-find-this-more-amusing-than-my-kids-do.html">I find this more amusing than my kids do</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p><a class="asset-img-link" href="https://angrychicken.typepad.com/.a/6a00d8341c578853ef0240a48ea9e7200b-pi"><img alt="Screen Shot 2019-03-02 at 7.19.35 AM" class="asset  asset-image at-xid-6a00d8341c578853ef0240a48ea9e7200b img-responsive" src="https://angrychicken.typepad.com/.a/6a00d8341c578853ef0240a48ea9e7200b-400wi" style="width: 400px; display: block; margin-left: auto; margin-right: auto;" title="Screen Shot 2019-03-02 at 7.19.35 AM" /></a></p>
+<p>I made this block (you can see all the sides <a href="https://www.instagram.com/p/BuB5kwLlk1u/?utm_source=ig_web_copy_link" rel="noopener" target="_blank">in this little video</a>) because I was getting sick of nagging and sick of saying the same thing every day to my children. So I just hand them the block or leave it near by, as a quiet request. When I put this in instagram I laughed at what others said are their go-to nags.</p>
+<p>It&#39;s rainy today, which is great because I really need to sew on costumes and staying inside and listening to audio books feels so much better when the weather is bad. I am facing Waltz of the Flowers again (The Nutcracker) for costumes, this will be my 3rd time making Flowers, all for different studios, using existing bits and pieces and adding. Flowers are tricky, but fun. It&#39;s hard though, working with sad well-loved tutus and tops that are not really the right color. My dreams have been a combination of costume sewing and apocalyptic events because we are almost done watching The Umbrella Academy and it&#39;s getting stressy. I am enjoying it a whole lot.</p>
+<p>Thank you for your Paris and London and book suggestions!! I have booked our lodgings and train between the 2 cities, so now that I know exactly where we are staying we can start spending our hours on google maps walking around and finding all these places you have suggested. Last time I was in Paris there were no smartphones, and the last time I was in London there was no internet. I wrote a lot of postcards.</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">April 06, 2019 in <a href="https://angrychicken.typepad.com/angry_chicken/arty/">arty</a>, <a href="https://angrychicken.typepad.com/angry_chicken/fabric_fibers/">fabric & fibers</a> </span> <span class="separator">|</span> <a class="permalink" href="https://angrychicken.typepad.com/angry_chicken/2019/04/i-find-this-more-amusing-than-my-kids-do.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://angrychicken.typepad.com/angry_chicken/2019/04/i-find-this-more-amusing-than-my-kids-do.html#comments">Comments (6)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+    
+
+    
+
+    
+
+
+
+
+    <h2 class="date-header">March 24, 2019</h2>
+
+	<div class="entry-category-arty entry-category-learning_ entry-category-mishmash entry-author-amy_k entry-type-post entry" id="entry-6a00d8341c578853ef0240a48ea9d8200b">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://angrychicken.typepad.com/angry_chicken/2019/03/hamster-hands.html">hamster hands</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p><a class="asset-img-link" href="https://angrychicken.typepad.com/.a/6a00d8341c578853ef0240a440e01a200c-pi"><img alt="Screen Shot 2019-03-02 at 7.18.48 AM" class="asset  asset-image at-xid-6a00d8341c578853ef0240a440e01a200c img-responsive" src="https://angrychicken.typepad.com/.a/6a00d8341c578853ef0240a440e01a200c-400wi" style="width: 400px; display: block; margin-left: auto; margin-right: auto;" title="Screen Shot 2019-03-02 at 7.18.48 AM" /></a></p>
+<p>This is Mochi, our hamster. There is a zine about her you can <a href="https://www.instagram.com/sadie_matern/">buy from Sadie</a>. She is so special. She waits for us every night to play with her. Pete is quite attached.&#0160;</p>
+<p>We are in the beginning of spring break and I have a lot of sewing to do getting ready for spring shows. I had some not great success dyeing nylon, so thank god for Goodwill. I found the vests I needed and don&#39;t have to worry about the first dozen refusing to cooroperate. I have banished them into deep storage for now.</p>
+<p>I have big indoor plant plans. I know this is the time to be thinking about outside gardening, but we have almost no direct sun, so I can only do so much. But indoor plants are calling to me. I plan to put them mostly on the mantel, to avoid the cats thinking it&#39;s a toilet, which is what happened last time we got house plants.</p>
+<p>After listening to a large batch of podcasts (mostly catching up on This American Life) I am now listening to Becoming by Michelle Obama. I&#39;m only about 45 min in, but really liking it so far. I am reading a historical romance, which I have a big stash of on my kindle because I need them and am always happy when I go back a to them. They are the perfect escape.</p>
+<p>Delia and I are planning a trip to London and Paris this summer, so I am starting to make lists and researching shops, fabric stores, museums, cool cafes and all that. Any suggestions are appreciated! I haven&#39;t been there since 2001, so I bet a lot has changed.</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">March 24, 2019 in <a href="https://angrychicken.typepad.com/angry_chicken/arty/">arty</a>, <a href="https://angrychicken.typepad.com/angry_chicken/learning/">learning </a>, <a href="https://angrychicken.typepad.com/angry_chicken/mishmash/">mish-mash</a> </span> <span class="separator">|</span> <a class="permalink" href="https://angrychicken.typepad.com/angry_chicken/2019/03/hamster-hands.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://angrychicken.typepad.com/angry_chicken/2019/03/hamster-hands.html#comments">Comments (17)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+    
+
+    
+
+    
+
+
+
+
+    <h2 class="date-header">March 10, 2019</h2>
+
+	<div class="entry-category-arty entry-category-fabric_fibers entry-category-mishmash entry-author-amy_k entry-type-post entry" id="entry-6a00d8341c578853ef0240a48ea9fa200b">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://angrychicken.typepad.com/angry_chicken/2019/03/one-color-embrodiery.html">one-color embroidery</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p><a class="asset-img-link" href="https://angrychicken.typepad.com/.a/6a00d8341c578853ef0240a48ea9f5200b-pi"><img alt="Screen Shot 2019-03-02 at 7.19.56 AM" class="asset  asset-image at-xid-6a00d8341c578853ef0240a48ea9f5200b img-responsive" src="https://angrychicken.typepad.com/.a/6a00d8341c578853ef0240a48ea9f5200b-400wi" style="width: 400px; display: block; margin-left: auto; margin-right: auto;" title="Screen Shot 2019-03-02 at 7.19.56 AM" /></a></p>
+<p>I stitched this a couple of years ago for a book I contributed to, <a href="https://amzn.to/2UvH4do" rel="noopener" target="_blank">Embroider your Life</a>, and I found it tucked away in my desk recently. It&#39;s stitched on a linen base and is a slipcover for a hardback sketchbook. So, it&#39;s reusable, which is nice. I forget how much I love one-color needlework, especially when I use different thicknesses of thread. This pencil was procured from the fabulous pencil shop in NYC, <a href="https://cwpencils.com">CW Pencil Enterprise</a>.</p>
+<p>I am up to my ears in costume construction and altering for spring shows. I also am going to finish Dune on audio book. I have 3 hours left. It&#39;s great—dated, awesome, and also goofy because the narrator does the women&#39;s voices too, but in a weird falsetto which is really amusing to me. Also, Paul is a kind of a whiner, but I know he&#39;s a teen, so I get it. It&#39;s hard being a teen messiah. I had never read it, or seen the movie, (I don&#39;t plan on watching the movie) but I know this book played a big part in forming my brother&#39;s personality and life view. That and Van Halen. I think for me it was Xanadu (the record and the movie) and Mists of Avalon.</p>
+<p>I am really appreciating this list of <a href="https://www.nytimes.com/interactive/2019/arts/television/best-movies-on-netflix.html?fallback=0&amp;recId=1IE34JJqi2iuHjHnEGompQ9PULA&amp;locked=0&amp;geoContinent=NA&amp;geoRegion=OR&amp;recAlloc=top_conversion&amp;geoCountry=US&amp;blockId=most-popular&amp;imp_id=152434797&amp;action=click&amp;module=trending&amp;pgtype=Article&amp;region=Footer" rel="noopener" target="_blank">recommended movies streaming on netflix</a> right now from the New York Times. I feel like I spend more time trying to decide what to watch than actually watching, so this is helpful.</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">March 10, 2019 in <a href="https://angrychicken.typepad.com/angry_chicken/arty/">arty</a>, <a href="https://angrychicken.typepad.com/angry_chicken/fabric_fibers/">fabric & fibers</a>, <a href="https://angrychicken.typepad.com/angry_chicken/mishmash/">mish-mash</a> </span> <span class="separator">|</span> <a class="permalink" href="https://angrychicken.typepad.com/angry_chicken/2019/03/one-color-embrodiery.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://angrychicken.typepad.com/angry_chicken/2019/03/one-color-embrodiery.html#comments">Comments (3)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+    
+
+    
+
+    
+
+
+
+
+    <h2 class="date-header">March 02, 2019</h2>
+
+	<div class="entry-category-arty entry-category-fabric_fibers entry-category-mishmash entry-author-amy_k entry-type-post entry" id="entry-6a00d8341c578853ef0240a469ffb3200d">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://angrychicken.typepad.com/angry_chicken/2019/03/fabric-happiness.html">fabric happiness (and a blog anniversary)</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p><a class="asset-img-link" href="https://angrychicken.typepad.com/.a/6a00d8341c578853ef0240a469ffa9200d-pi"><img alt="Screen Shot 2019-03-02 at 7.17.22 AM" class="asset  asset-image at-xid-6a00d8341c578853ef0240a469ffa9200d img-responsive" src="https://angrychicken.typepad.com/.a/6a00d8341c578853ef0240a469ffa9200d-400wi" style="width: 400px; display: block; margin-left: auto; margin-right: auto;" title="Screen Shot 2019-03-02 at 7.17.22 AM" /></a></p>
+<p>These beautiful fabrics are from <a href="https://www.boltfabricboutique.com" rel="noopener" target="_blank">Bolt</a>, which recently moved and expanded. They have such a good selection of fabrics and trims I got a little nutty. I am so lucky to have such wonderful local indie fabric stores in Portland.</p>
+<p>I just saw on my calendar that Feb. 21st was my blog anniversary. I started it in 2005. 14 years? Incedible. And yet not. I feels like a long time ago. I go through my archives sometimes, with the girls. I just did recently with Lydia looking at all the homeschooling projects we have done. And the crafts, etc. We got a huge dumpster last weekend and finally cleaned out the garage and knowing I have documented so many of our learning projects, toys, costumes, and artwork makes it so much easier to send it away when it&#39;s creating clutter and chaos in my life. I do need to make a new banner for the blog, I think this one has been up for more than 7 years now. I am on instagram more these days. But sometimes I am not. I haven&#39;t really gotten into the <em>stories</em> thing. I am better with the photo and text format. Also, I like to reference what I have documented, so having it go away isn&#39;t so useful for me. Years ago I was <a href="https://angrychicken.typepad.com/angry_chicken/2010/09/from-blog-to-book-a-long-arduous-journey.html">printing out the blog and binding it in books</a>, but I stopped after year 5? I&#39;d love to keep doing this. I think I could easily get 2 years in a book because the amount of posts decreased as the years went on. But I also look at this project and get tired and think I a was totally bonkers.</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">March 02, 2019 in <a href="https://angrychicken.typepad.com/angry_chicken/arty/">arty</a>, <a href="https://angrychicken.typepad.com/angry_chicken/fabric_fibers/">fabric & fibers</a>, <a href="https://angrychicken.typepad.com/angry_chicken/mishmash/">mish-mash</a> </span> <span class="separator">|</span> <a class="permalink" href="https://angrychicken.typepad.com/angry_chicken/2019/03/fabric-happiness.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://angrychicken.typepad.com/angry_chicken/2019/03/fabric-happiness.html#comments">Comments (6)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+    
+
+    
+
+
+
+
+    <h2 class="date-header">January 03, 2019</h2>
+
+	<div class="entry-category-arty entry-category-holidays entry-author-amy_k entry-type-post entry" id="entry-6a00d8341c578853ef022ad3a65d2d200d">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://angrychicken.typepad.com/angry_chicken/2019/01/glueing-stuff-on-stuff.html">glueing stuff on stuff and happy 2019!</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p><a class="asset-img-link" href="https://angrychicken.typepad.com/.a/6a00d8341c578853ef022ad3c60db0200b-pi"><img alt="Screen Shot 2018-12-10 at 7.35.49 AM" class="asset  asset-image at-xid-6a00d8341c578853ef022ad3c60db0200b img-responsive" src="https://angrychicken.typepad.com/.a/6a00d8341c578853ef022ad3c60db0200b-400wi" style="width: 400px; display: block; margin-left: auto; margin-right: auto;" title="Screen Shot 2018-12-10 at 7.35.49 AM" /></a><br /><a class="asset-img-link" href="https://angrychicken.typepad.com/.a/6a00d8341c578853ef022ad3c60dbe200b-pi"><img alt="Screen Shot 2018-12-10 at 7.35.49 AM" class="asset  asset-image at-xid-6a00d8341c578853ef022ad3c60dbe200b img-responsive" src="https://angrychicken.typepad.com/.a/6a00d8341c578853ef022ad3c60dbe200b-400wi" style="width: 400px; display: block; margin-left: auto; margin-right: auto;" title="Screen Shot 2018-12-10 at 7.35.49 AM" /></a></p>
+<p>I finally packed away all my supplies for making these—they went on various gifts this year as gift toppers, my new passion. I made so many different types, all from bits and bobs from my stash. They are all glued to clothes pins and then clipped on. After, they can be reused as ornaments! I&#39;m all about making more of these next year, along with Christmas corsages, which was a huge rabbit hole for me late one evening.&#0160;</p>
+<p>We are slowly getting back into the groove, this holiday season seemed impossibly busy. I&#39;m relieved to get the tree down and clear the house of all the stuff that seemed to pile up.</p>
+<p>Unrelated, I am smiling at this great video series over on the New York Times, a maker challenge called <a href="https://www.nytimes.com/video/t-magazine/100000005493602/make-t-something-alex-da-corte.html?module=inline" rel="noopener" target="_blank">Make T Something</a>. So cool.</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">January 03, 2019 in <a href="https://angrychicken.typepad.com/angry_chicken/arty/">arty</a>, <a href="https://angrychicken.typepad.com/angry_chicken/holidays/">holidays</a> </span> <span class="separator">|</span> <a class="permalink" href="https://angrychicken.typepad.com/angry_chicken/2019/01/glueing-stuff-on-stuff.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://angrychicken.typepad.com/angry_chicken/2019/01/glueing-stuff-on-stuff.html#comments">Comments (2)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+    <h2 class="date-header">December 16, 2018</h2>
+
+	<div class="entry-category-arty entry-category-holidays entry-category-learning_ entry-category-mishmash entry-author-amy_k entry-type-post entry" id="entry-6a00d8341c578853ef022ad3c60e0b200b">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://angrychicken.typepad.com/angry_chicken/2018/12/36-hours-in-seattle.html">36 hours in seattle</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p><a class="asset-img-link" href="https://angrychicken.typepad.com/.a/6a00d8341c578853ef022ad3a65d62200d-pi"><img alt="Screen Shot 2018-12-10 at 7.47.13 AM" class="asset  asset-image at-xid-6a00d8341c578853ef022ad3a65d62200d img-responsive" src="https://angrychicken.typepad.com/.a/6a00d8341c578853ef022ad3a65d62200d-400wi" style="width: 400px; display: block; margin-left: auto; margin-right: auto;" title="Screen Shot 2018-12-10 at 7.47.13 AM" /></a></p>
+<p>We had so much fun running around Seattle last week. We saw <a href="https://www.pnb.org/nutcracker/" rel="noopener" target="_blank">Pacific Northwest Ballet&#39;s Nutcracker. </a>I had been dying to see the new costumes and sets designed by Ian Falconer a couple years ago. It was so good, and so wonderful to see it all in person. Here&#39;s my rock-star parkig at the market. I was so proud. It pays to get there early.<br /><a class="asset-img-link" href="https://angrychicken.typepad.com/.a/6a00d8341c578853ef022ad3a65d66200d-pi"><img alt="Screen Shot 2018-12-10 at 7.47.13 AM" class="asset  asset-image at-xid-6a00d8341c578853ef022ad3a65d66200d img-responsive" src="https://angrychicken.typepad.com/.a/6a00d8341c578853ef022ad3a65d66200d-400wi" style="width: 400px; display: block; margin-left: auto; margin-right: auto;" title="Screen Shot 2018-12-10 at 7.47.13 AM" /></a><br /><a class="asset-img-link" href="https://angrychicken.typepad.com/.a/6a00d8341c578853ef022ad3c60df7200b-pi"><img alt="Screen Shot 2018-12-10 at 7.47.13 AM" class="asset  asset-image at-xid-6a00d8341c578853ef022ad3c60df7200b img-responsive" src="https://angrychicken.typepad.com/.a/6a00d8341c578853ef022ad3c60df7200b-400wi" style="width: 400px; display: block; margin-left: auto; margin-right: auto;" title="Screen Shot 2018-12-10 at 7.47.13 AM" /></a><br /><a class="asset-img-link" href="https://angrychicken.typepad.com/.a/6a00d8341c578853ef022ad3805ef9200c-pi"><img alt="Screen Shot 2018-12-10 at 7.47.13 AM" class="asset  asset-image at-xid-6a00d8341c578853ef022ad3805ef9200c img-responsive" src="https://angrychicken.typepad.com/.a/6a00d8341c578853ef022ad3805ef9200c-400wi" style="width: 400px; display: block; margin-left: auto; margin-right: auto;" title="Screen Shot 2018-12-10 at 7.47.13 AM" /></a><br /><a class="asset-img-link" href="https://angrychicken.typepad.com/.a/6a00d8341c578853ef022ad3c60e00200b-pi"><img alt="Screen Shot 2018-12-10 at 7.47.13 AM" class="asset  asset-image at-xid-6a00d8341c578853ef022ad3c60e00200b img-responsive" src="https://angrychicken.typepad.com/.a/6a00d8341c578853ef022ad3c60e00200b-400wi" style="width: 400px; display: block; margin-left: auto; margin-right: auto;" title="Screen Shot 2018-12-10 at 7.47.13 AM" /></a><br /><a class="asset-img-link" href="https://angrychicken.typepad.com/.a/6a00d8341c578853ef022ad3c60e04200b-pi"><img alt="Screen Shot 2018-12-10 at 7.47.13 AM" class="asset  asset-image at-xid-6a00d8341c578853ef022ad3c60e04200b img-responsive" src="https://angrychicken.typepad.com/.a/6a00d8341c578853ef022ad3c60e04200b-400wi" style="width: 400px; display: block; margin-left: auto; margin-right: auto;" title="Screen Shot 2018-12-10 at 7.47.13 AM" /></a></p>
+<p>We shopped and ran around going to old favorites and now ones. I did not make it inside of <a href="https://seattle.eater.com/2018/11/27/18112854/nanas-green-tea-open-denny-triangle-seattle-photos-japanese-chain" rel="noopener" target="_blank">Nana&#39;s Green Tea</a>, sadly, because the was a crazy line around the block. And we went early! So, that will be for next time.</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">December 16, 2018 in <a href="https://angrychicken.typepad.com/angry_chicken/arty/">arty</a>, <a href="https://angrychicken.typepad.com/angry_chicken/holidays/">holidays</a>, <a href="https://angrychicken.typepad.com/angry_chicken/learning/">learning </a>, <a href="https://angrychicken.typepad.com/angry_chicken/mishmash/">mish-mash</a> </span> <span class="separator">|</span> <a class="permalink" href="https://angrychicken.typepad.com/angry_chicken/2018/12/36-hours-in-seattle.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://angrychicken.typepad.com/angry_chicken/2018/12/36-hours-in-seattle.html#comments">Comments (3)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+    
+
+    
+
+    
+
+
+
+
+    <h2 class="date-header">December 10, 2018</h2>
+
+	<div class="entry-category-arty entry-category-learning_ entry-category-mishmash entry-author-amy_k entry-type-post entry" id="entry-6a00d8341c578853ef022ad3a65d1b200d">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://angrychicken.typepad.com/angry_chicken/2018/12/sadies-zines-3-is-available-now.html">Sadie's zines (#3 is available now)</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p><a class="asset-img-link" href="https://angrychicken.typepad.com/.a/6a00d8341c578853ef022ad3805e31200c-pi"><img alt="Screen Shot 2018-12-10 at 7.34.27 AM" class="asset  asset-image at-xid-6a00d8341c578853ef022ad3805e31200c img-responsive" src="https://angrychicken.typepad.com/.a/6a00d8341c578853ef022ad3805e31200c-400wi" style="width: 400px; display: block; margin-left: auto; margin-right: auto;" title="Screen Shot 2018-12-10 at 7.34.27 AM" /></a></p>
+<p>Sadie just finished #3 of her zine series about all of our pets. There will be 7 total. This one features her sister&#39;s hamster, Mochi. These are so funny and wry, I love them to bits. And they make great stocking stuffers! She will bundle #1-3 of them with a little ribbon, too, perfect for stocking stuffers or tucked into holiday cards! The title of this series is a quote from her father in regards to all of our animals.</p>
+<p>You can send her actual $ in the mail, old-school style, or she can send you a PayPal request. Just e-mail me or <a href="https://www.instagram.com/sadie_matern/">DM her over on IG</a>. They are $1.50 or 3 for $4 and that includes shipping.</p>
+<p><br /><a class="asset-img-link" href="https://angrychicken.typepad.com/.a/6a00d8341c578853ef022ad3805e38200c-pi"><img alt="Screen Shot 2018-12-10 at 7.34.27 AM" class="asset  asset-image at-xid-6a00d8341c578853ef022ad3805e38200c img-responsive" src="https://angrychicken.typepad.com/.a/6a00d8341c578853ef022ad3805e38200c-400wi" style="width: 400px; display: block; margin-left: auto; margin-right: auto;" title="Screen Shot 2018-12-10 at 7.34.27 AM" /></a><br /><a class="asset-img-link" href="https://angrychicken.typepad.com/.a/6a00d8341c578853ef022ad3a65ca9200d-pi"><img alt="Screen Shot 2018-12-10 at 7.34.27 AM" class="asset  asset-image at-xid-6a00d8341c578853ef022ad3a65ca9200d img-responsive" src="https://angrychicken.typepad.com/.a/6a00d8341c578853ef022ad3a65ca9200d-400wi" style="width: 400px; display: block; margin-left: auto; margin-right: auto;" title="Screen Shot 2018-12-10 at 7.34.27 AM" /></a></p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">December 10, 2018 in <a href="https://angrychicken.typepad.com/angry_chicken/arty/">arty</a>, <a href="https://angrychicken.typepad.com/angry_chicken/learning/">learning </a>, <a href="https://angrychicken.typepad.com/angry_chicken/mishmash/">mish-mash</a> </span> <span class="separator">|</span> <a class="permalink" href="https://angrychicken.typepad.com/angry_chicken/2018/12/sadies-zines-3-is-available-now.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://angrychicken.typepad.com/angry_chicken/2018/12/sadies-zines-3-is-available-now.html#comments">Comments (3)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+    <h2 class="date-header">November 25, 2018</h2>
+
+	<div class="entry-category-arty entry-category-fabric_fibers entry-category-learning_ entry-category-mishmash entry-author-amy_k entry-type-post entry" id="entry-6a00d8341c578853ef022ad3c2592e200b">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://angrychicken.typepad.com/angry_chicken/2018/11/happy-thanksgiving-and-hello-almost-december-.html">happy thanksgiving and hello almost december-</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p><a class="asset-img-link" href="https://angrychicken.typepad.com/.a/6a00d8341c578853ef022ad37c8eec200c-pi"><img alt="Screen Shot 2018-11-25 at 8.05.43 AM" class="asset  asset-image at-xid-6a00d8341c578853ef022ad37c8eec200c img-responsive" src="https://angrychicken.typepad.com/.a/6a00d8341c578853ef022ad37c8eec200c-400wi" style="width: 400px; display: block; margin-left: auto; margin-right: auto;" title="Screen Shot 2018-11-25 at 8.05.43 AM" /></a></p>
+<p>We are are 1/4 done with our shows, and things seem to be going well! I love the last minute issues, like would a mouse tail be attached under or over a tutu? I decided over.</p>
+<p>I couldn&#39;t sleep last night. I was up at 3:30am, too hot, and needing to get away from the dogs. I watched a movie, Eva Hesse, <em>Portrait of a Ground-breaking Artist</em> on Kanopy and was moved to tears. I studied her work in college, always loved it, and this film brought it to the front of my mind again. Seeing it now after so long and remembering her life story was so inspiring and emotional. She was working in NYC the same time as Patti Smith, I realized, and they were at the same clubs, not that they mentioned each other, but I kept thinking about that, having just listened to Just Kids.&#0160;</p>
+<p><a href="https://multcolib.kanopy.com" rel="noopener noreferrer" target="_blank">Kanopy,</a>&#0160;I read about when I was researching substitutes for Filmstruck (RIP) and I can&#39;t believe the catalog they have! And it&#39;s free, if your local library is signed up. It&#39;s kind of incredible.</p>
+<p>I am 9 hours into Dune (of 21 total) the audio book version. I think I will need to switch to the physical book soon because I will be done with my sewing before I can listen to it all. I better be anyway. I have never read Dune, it is my brother&#39;s favorite book, all I knew is it was about big worms and I should avoid the movie. I love it so far. So epic.</p>
+<p>This photo is from <a href="http://www.acornsandthreads.com">Acorns and Threads</a>, my very local embroidery shop. I can walk to it. I was there choosing threads for my next project after all the sewing. This is how I rebel. Thinking about needlework while sewing.</p>
+<p>I did not write a favorite books and gift guide this year. Time slipped away. I might post a book one soon. I love looking at the old lists to remember what has come into the house. <a href="https://angrychicken.typepad.com/angry_chicken/2017/12/my-entry.html" rel="noopener noreferrer" target="_blank">Here&#39;s last year&#39;s with links to all the previous lists.</a></p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">November 25, 2018 in <a href="https://angrychicken.typepad.com/angry_chicken/arty/">arty</a>, <a href="https://angrychicken.typepad.com/angry_chicken/fabric_fibers/">fabric & fibers</a>, <a href="https://angrychicken.typepad.com/angry_chicken/learning/">learning </a>, <a href="https://angrychicken.typepad.com/angry_chicken/mishmash/">mish-mash</a> </span> <span class="separator">|</span> <a class="permalink" href="https://angrychicken.typepad.com/angry_chicken/2018/11/happy-thanksgiving-and-hello-almost-december-.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://angrychicken.typepad.com/angry_chicken/2018/11/happy-thanksgiving-and-hello-almost-december-.html#comments">Comments (6)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+    
+
+    
+
+    
+
+
+
+
+    <h2 class="date-header">November 18, 2018</h2>
+
+	<div class="entry-category-fabric_fibers entry-category-learning_ entry-category-mishmash entry-author-amy_k entry-type-post entry" id="entry-6a00d8341c578853ef022ad37979c1200c">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://angrychicken.typepad.com/angry_chicken/2018/11/still-sewing-costumes.html">still sewing costumes and upcoming shows</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p><a class="asset-img-link" href="https://angrychicken.typepad.com/.a/6a00d8341c578853ef022ad37afdea200c-pi"><img alt="IMG_20181115_210440_183_resized" class="asset  asset-image at-xid-6a00d8341c578853ef022ad37afdea200c img-responsive" src="https://angrychicken.typepad.com/.a/6a00d8341c578853ef022ad37afdea200c-400wi" style="width: 400px; display: block; margin-left: auto; margin-right: auto;" title="IMG_20181115_210440_183_resized" /></a></p>
+<p>I am working on the Tulip costumes for Waltz of the Flowers for <a href="https://www.vancouverdancetheatre.com" rel="noopener noreferrer" target="_blank">VDT&#39;s Nutcracker</a>, which is coming up fast. There are 12 total. The pastel bodices were existing. I added the leaves and front embellishments and then made 2-layer chiffon circle skirts to draper over purchased super-stiff crinolines. Mixing the chiffon colors to match the bodices was really fun. I love using chiffon layers. Mill Ends has a large selection of colors, thankfully.</p>
+<p>This is a busy time for shows, my eldest daughter is in the <a href="https://portlandplayhouse.secure.force.com/ticket/#details_a0S1I000007EAEbUAO" rel="noopener noreferrer" target="_blank">Fall Festival of Shakespeare</a> at Winningstad theater today (sold out), which is an all day show with 6 schools performing. She is in Much Ado about Nothing. The crowds for these shows are authentic Elizabethan, so there is a lot of very-making and yelling at the action which is pretty great.</p>
+<p>I am so excited to see my middle daughter dance in <a href="https://theportlandballet.org" rel="noopener noreferrer" target="_blank">The Portland Ballet&#39;s A Midsummer Night&#39;s Dream</a>&#0160;Thanksgiving weekend. There are still tickets available. These shows are always so beautiful and I love going downtown to see her dance at Lincoln Hall at Portland State. it&#39;s a fun area to be in and grab dinner.</p>
+<p>My youngest is in the <a href="https://www.villagehome.org/?gclid=CjwKCAiAuMTfBRAcEiwAV4SDkVOt-IXHKQeaQlvjw46DAFlr6uSh6JPQiUOhjC5GdtY2M2X6f-amlBoC_cwQAvD_BwE" rel="noopener noreferrer" target="_blank">Lion King Jr</a>, which is a wonderful family show. All the kids in this production are between 10-14 and are homeschooled. It&#39;s put on by Village Home and these shows are so impressive and such a great opportunity for them. Tickets are <a href="https://www.ticketor.com/villagehome/default" rel="noopener noreferrer" target="_blank">here</a>! (It&#39;s the first weekend of December.)</p>
+<p>I just finished Turn of the Screw on audio. I had read it long ago, I think in high school, and remembered almost nothing. It&#39;s so creepy, claustrophobic, vague, and ambiguous. To the point where it&#39;s almost funny. Especially the <em>ambiguous</em> language. So many unmentionables and allusions to corruption.</p>
+<p>Thanks for your suggestions of good audio books. I need to listen to something not creepy, sad, or dark, but at the same time, I am on a classics theme, so that might be hard.</p>
+<p>Some of my ideas for Thanksgiving (what to bring to Grammie&#39;s):</p>
+<p><a href="https://cooking.nytimes.com/recipes/1017817-cranberry-curd-tart" rel="noopener noreferrer" target="_blank">Cranberry Curd Tart</a></p>
+<p><a href="endvie%20salad" rel="noopener noreferrer" target="_blank">Endvie and Apple Salad</a></p>
+<p><a href="https://www.foodandwine.com/recipes/wild-mushroom-crostini-cocktails-2012" rel="noopener noreferrer" target="_blank">Wild Mushroom Crostini</a></p>
+<p>Pete is making his delicious blackened brussels sprouts.</p>
+<p>Okay, time for more sewing!</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">November 18, 2018 in <a href="https://angrychicken.typepad.com/angry_chicken/fabric_fibers/">fabric & fibers</a>, <a href="https://angrychicken.typepad.com/angry_chicken/learning/">learning </a>, <a href="https://angrychicken.typepad.com/angry_chicken/mishmash/">mish-mash</a> </span> <span class="separator">|</span> <a class="permalink" href="https://angrychicken.typepad.com/angry_chicken/2018/11/still-sewing-costumes.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://angrychicken.typepad.com/angry_chicken/2018/11/still-sewing-costumes.html#comments">Comments (2)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+    <h2 class="date-header">November 12, 2018</h2>
+
+	<div class="entry-category-arty entry-category-fabric_fibers entry-category-learning_ entry-category-mishmash entry-author-amy_k entry-type-post entry" id="entry-6a00d8341c578853ef022ad37979b3200c">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://angrychicken.typepad.com/angry_chicken/2018/11/sewing-costuems.html">sewing costumes</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p><a class="asset-img-link" href="https://angrychicken.typepad.com/.a/6a00d8341c578853ef022ad3bf3d5b200b-pi"><img alt="IMG_20181029_085006_007_resized" class="asset  asset-image at-xid-6a00d8341c578853ef022ad3bf3d5b200b img-responsive" src="https://angrychicken.typepad.com/.a/6a00d8341c578853ef022ad3bf3d5b200b-400wi" style="width: 400px; display: block; margin-left: auto; margin-right: auto;" title="IMG_20181029_085006_007_resized" /></a><br /> <a class="asset-img-link" href="https://angrychicken.typepad.com/.a/6a00d8341c578853ef022ad3bf3d74200b-pi"><img alt="IMG_20181029_085006_007_resized" class="asset  asset-image at-xid-6a00d8341c578853ef022ad3bf3d74200b img-responsive" src="https://angrychicken.typepad.com/.a/6a00d8341c578853ef022ad3bf3d74200b-400wi" style="width: 373px; display: block; margin-left: auto; margin-right: auto;" title="IMG_20181029_085006_007_resized" /></a><br /> <a class="asset-img-link" href="https://angrychicken.typepad.com/.a/6a00d8341c578853ef022ad39fa011200d-pi"><img alt="IMG_20181029_085006_007_resized" class="asset  asset-image at-xid-6a00d8341c578853ef022ad39fa011200d img-responsive" src="https://angrychicken.typepad.com/.a/6a00d8341c578853ef022ad39fa011200d-400wi" style="width: 373px; display: block; margin-left: auto; margin-right: auto;" title="IMG_20181029_085006_007_resized" /></a><br /> <a class="asset-img-link" href="https://angrychicken.typepad.com/.a/6a00d8341c578853ef022ad39fa016200d-pi"><img alt="IMG_20181029_085006_007_resized" class="asset  asset-image at-xid-6a00d8341c578853ef022ad39fa016200d img-responsive" src="https://angrychicken.typepad.com/.a/6a00d8341c578853ef022ad39fa016200d-400wi" style="width: 373px; display: block; margin-left: auto; margin-right: auto;" title="IMG_20181029_085006_007_resized" /></a></p>
+<p>The basement is a costume shop right now for the <a href="https://www.vancouverdancetheatre.com" rel="noopener noreferrer" target="_blank">Vancouver Dance Theater&#39;s production of The Nutcracker</a>. These are photos of Spanish and a Snow Queen headpiece. There&#39;s the making of Candy Cane headpieces, too. The bodices for Spanish were given to me white, I dyed them (and followed up with black fabric spray paint) to make them black, added a purchased skirt that I sewed the red trim to, and then added the sleeves and embellishments to the bodice. I love using existing costume pieces so much. It&#39;s such a fun challenge. The skirt is a petticoat that is really inexpensive, found on Amazon, so the whole costume came in at under $22 each. There are 4.</p>
+<p>While I am sewing fro shows this year I am listening to books. I haven&#39;t really done this much before, mostly because I am not usually in one spot long enough to listen to anything. Airplanes and road trips got me through Calypso this summer, but that was it. Last year, I watched all the seasons of Parks and Rec while sewing for shows, but I missed a lot, not looking at the screen. So, I thought it would be great to try listening to some books I have been meaning to read. It has been such a good thing! I am so happy I dedicated my sewing time to doing this. I started with Just Kids, by Patti Smith, then Lincoln in the Bardo, by George Saunders, Frankenstein by Mary Shelly and just finished Mrs. Dalloway by Virginia Woolf. I have meaning meaning read these books <em>for so long</em>, and never got around to it and just feel so happy to have finally experienced them. Woolf has always been hard for me to settle into, I have a hard time focusing on her writing, and the audiobook was perfect for that.</p>
+<p>I&#39;m not sure what I am going to listen to this week, I think I have about 2 more books I can fit in before the shows start. I love the idea of classics, but might want to listen to something contemporary next.</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">November 12, 2018 in <a href="https://angrychicken.typepad.com/angry_chicken/arty/">arty</a>, <a href="https://angrychicken.typepad.com/angry_chicken/fabric_fibers/">fabric & fibers</a>, <a href="https://angrychicken.typepad.com/angry_chicken/learning/">learning </a>, <a href="https://angrychicken.typepad.com/angry_chicken/mishmash/">mish-mash</a> </span> <span class="separator">|</span> <a class="permalink" href="https://angrychicken.typepad.com/angry_chicken/2018/11/sewing-costuems.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://angrychicken.typepad.com/angry_chicken/2018/11/sewing-costuems.html#comments">Comments (13)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+
+		</div>
+	</div>
+      </div>
+
+			<div class="pager-bottom pager-entries pager content-nav">
+		<div class="pager-inner">
+			
+			
+			<span class="pager-right">
+				<a href="https://angrychicken.typepad.com/angry_chicken/page/2/"><span class="pager-label">newer</span>
+					<span class="chevron">&#187;</span></a>
+			</span>
+		</div>
+	</div>
+	
+	
+
+        
+
+
+
+						</div>
+					</div>
+					<div id="gamma">
+						<div id="gamma-inner" class="pkg">
+							<!-- sidebar2 -->
+
+
+<!-- list_inlcude.tt  -->
+<div id="please_browse" class="module-typelist module">
+<h2 class="module-header">Please Browse!</h2>
+	<div class="typelist-plain module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><div class="typelist-note"><a href="https://www.etsy.com/shop/amykarol"><img style="border-style: none;" src="https://angrychicken.typepad.com/newbuttons/shop.jpg"/></a></div></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="even_more_about_me" class="module-typelist module">
+<h2 class="module-header">even more about me!</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><br /><a href="http://amykarol.com/reviews--interviews"><img style="border: none;" src="https://angrychicken.typepad.com/pressbut.jpg"/></a></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="now_where_did_i_read_that" class="module-typelist module">
+<h2 class="module-header">now where did I read that?</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a href="" ></a><br /><!-- SiteSearch Google -->
+<form method="get" action="https://www.google.com/search" style="border: 0pt none ; margin: 0pt; padding: 0pt;">
+<input name="q" size="5" maxlength="255" style="border: 1px solid rgb(187, 187, 187); width: 105px; color: rgb(48, 95, 92);" type="text">
+<input value="search" type="submit">
+<input name="domains" value="angrychicken.typepad.com" type="hidden">
+<input name="sitesearch" value="angrychicken.typepad.com" type="hidden">
+</form>
+<!-- SiteSearch Google --></li>
+							<li class="module-list-item"><a href="" ></a><br /></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="check_out_my_books" class="module-typelist module">
+<h2 class="module-header">Check out my books!</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a href="" ></a><br /><a href="http://www.amykarol.com"><IMG style="border-style: none;" src="https://angrychicken.typepad.com/smallbendtherules.jpg"/></a>
+</li>
+							<li class="module-list-item"><a href="" ></a><br /><a href="http://www.amykarol.com"><IMG style="border-style: none;" src="https://angrychicken.typepad.com/smbtrfcover.jpg"/></a>
+</li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="mail_list" class="module-typelist module">
+<h2 class="module-header">mail list</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a href="" ></a><br /><img style="border: none;" src="https://angrychicken.typepad.com/maillist1.jpg"/><br />
+<form method=post action="https://www.ymlp.com/subscribe.php?kingpod">
+<table border=0>
+<tr>
+<td>Please enter your email</td>
+</tr>
+<tr>
+<td><input type="text" name="YMLP0" size="20"><input type="submit" value="Add Me"></td>
+</tr>
+</table>
+</form></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="my_boards_on_pinterest" class="module-typelist module">
+<h2 class="module-header">My boards on Pinterest</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a href="" ></a><br /><a href="https://pinterest.com/amychicken/"><img src="https://passets-cdn.pinterest.com/images/pinterest-button.png" width="78" height="26" alt="Follow Me on Pinterest" /></a></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+	<div class="module-archives module">
+		<h2 class="module-header"><a href="https://angrychicken.typepad.com/angry_chicken/archives.html">Archives</a></h2>
+		<div class="module-content">
+												<ul class="module-list">
+				
+				<li class="module-list-item"><a href="https://angrychicken.typepad.com/angry_chicken/2019/04/index.html">April 2019</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://angrychicken.typepad.com/angry_chicken/2019/03/index.html">March 2019</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://angrychicken.typepad.com/angry_chicken/2019/01/index.html">January 2019</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://angrychicken.typepad.com/angry_chicken/2018/12/index.html">December 2018</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://angrychicken.typepad.com/angry_chicken/2018/11/index.html">November 2018</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://angrychicken.typepad.com/angry_chicken/2018/10/index.html">October 2018</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://angrychicken.typepad.com/angry_chicken/2018/09/index.html">September 2018</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://angrychicken.typepad.com/angry_chicken/2018/08/index.html">August 2018</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://angrychicken.typepad.com/angry_chicken/2018/07/index.html">July 2018</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://angrychicken.typepad.com/angry_chicken/2018/06/index.html">June 2018</a></li>
+									</ul>
+									<p class="module-more"><a href="https://angrychicken.typepad.com/angry_chicken/archives.html">More...</a></p>
+				
+				
+			
+		</div>
+	</div>
+
+
+
+
+						</div>
+					</div>
+				</div>
+			</div>
+			
+
+
+<!-- container-footer -->
+<div id="footer">
+<div class="row well"><div class="col-md-12">
+	<div id="footer-inner">
+		<ul class="footer-list pkg list-inline" >
+			<li class="footer-list-item"><a href="https://angrychicken.typepad.com/angry_chicken/">angry chicken</a></li>
+			<li class="last-footer-list-item footer-list-item"><a href="http://www.typepad.com/">Powered by TypePad</a></li>
+		</ul>
+	</div>
+</div></div>
+</div>
+
+		</div>
+	</div>
+	
+
+
+
+
+
+     
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+<!--
+var extra_happy = Math.floor(1000000000 * Math.random());
+document.write('<img src="https://www.typepad.com/t/stats?blog_id=116048&amp;user_id=299549&amp;page=' + escape(location.href) + '&amp;referrer=' + escape(document.referrer) + '&amp;i=' + extra_happy + '" width="1" height="1" alt="" style="position: absolute; top: 0; left: 0;" />');
+// -->
+</script>
+
+
+
+<!-- Begin disqus Tag -->
+
+<!-- End disqus Tag -->
+</body>
+</html>
+
+<!-- ph=1 -->
